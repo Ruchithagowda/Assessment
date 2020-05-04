@@ -1,0 +1,5 @@
+Strings are immutable in java 
+a.True
+b.False
+
+ans:False
